@@ -1,12 +1,16 @@
 // ==UserScript==
 // @name         Pianoverse-fireplace (BG underlay)
-// @namespace    https://homexskillet.com
+// @namespace    http://tampermonkey.net/
 // @version      1.0.1
 // @description  Inject a full-bleed background video under the scene on pianoverse.net
+// @author       HomeXskillet
 // @match        https://pianoverse.net/*
 // @run-at       document-idle
 // @grant        none
 // @noframes
+// @license      MIT
+// @downloadURL https://update.greasyfork.org/scripts/554041/Pianoverse-fireplace%20%28BG%20underlay%29.user.js
+// @updateURL https://update.greasyfork.org/scripts/554041/Pianoverse-fireplace%20%28BG%20underlay%29.meta.js
 // ==/UserScript==
 
 (function () {
